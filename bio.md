@@ -32,3 +32,9 @@
 **9/2011-10/2012** Teaching ECDL at Cypernet Pallouriotissas
 
 
+## Areas of Interest
+
+•	Computers & Internet
+•	Dancing
+•	Traveling
+•	Attending concerts and theatrical performances
