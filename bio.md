@@ -34,7 +34,7 @@
 
 ## Areas of Interest
 
-•	Computers & Internet
-•	Dancing
-•	Traveling
-•	Attending concerts and theatrical performances
+*	Computers & Internet
+*	Dancing
+*	Traveling
+*	Attending concerts and theatrical performances
