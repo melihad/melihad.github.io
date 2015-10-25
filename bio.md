@@ -15,3 +15,20 @@
 
 *	 Excellent Greek Knowledge - First Language
 *	 Basic English Knowledge - IGCSE with grade C
+
+
+## Work Experience
+
+** 9/2015-present** Salsa Ladies Styling Instructor at Dancewaves Dance Academy
+
+** 6/2015-present** Account Manager at GnosySoft
+
+** 9/2014-7/2015 **  Salsa and Tango instructor at Latin School of Dance 
+
+**9/2013-6/2015** Laboratory Assistant at University of Cyprus
+
+**10/2012-6/2013**  Teaching Maths and Physics to lyceum students at G.E.C. Private Institute
+
+**9/2011-10/2012** Teaching ECDL at Cypernet Pallouriotissas
+
+
