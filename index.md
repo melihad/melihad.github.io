@@ -9,4 +9,4 @@
 
 ## Ευχαριστίες
 	
-Η σελίδα αυτή βασίστηκε στο repository "ptoro-site" του Ioanni Protonotariou τον οποίο και ευχαριστώ θερμά.
+Η σελίδα αυτή βασίστηκε στο repository "proto-site" του Ioanni Protonotariou τον οποίο και ευχαριστώ θερμά.
