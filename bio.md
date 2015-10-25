@@ -9,3 +9,8 @@
 *	Restricted elective courses: Computational Learning Systems, Digital Image Processing, Computer Vision, Logic in Computer Science, Logic Programming and Artificial Intelligence
 
 **2007-2010** Pancyprian Gymnasium | Basic Education – High School Degree
+
+## Languages
+
+*	 Excellent Greek Knowledge - First Language
+*	 Basic English Knowledge - IGCSE with grade C
