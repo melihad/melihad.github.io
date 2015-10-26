@@ -1,6 +1,6 @@
 # Στοιχεία επικοινωνίας
 
-![](https://www.facebook.com/photo.php?fbid=10152694710357348&set=a.428046442347.204164.524407347&type=3&theater)
+![](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10678610_10152694710357348_1838164598756398793_n.jpg?oh=992abb77c3cfa44b2e02d5a948ca3312&oe=56C55C54)
 
 Melina Hadjistylianou
 
