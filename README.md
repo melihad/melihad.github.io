@@ -26,12 +26,15 @@ My first GitHub website | Version 1.0 | 25/10/2015
 ----------------------
 
 1. README.md
+
 Στο αρχείο README.md μπορούμε να βρούμε τις γενικές πληροφορίες για το GitHub website
 
 2. index.html
+
 Το αρχείο index.html περιέχει τον κώδικα όπως αυτός γράφτηκε από τον Protonotario. Το αρχείο αυτό έχει παραμείνει ανέπαφο.
 
 3. navigation.md
+
 To αρχείο navigation.md περιλαμβάνει τον οδηγό πλοήγησης της ιστοσελίδας.
 
 4. config.json
