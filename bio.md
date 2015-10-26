@@ -1,4 +1,5 @@
 # Βιογραφικό
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVFAAAAJGFiMDQ0MzJjLTI0ZTAtNDZhOS1hYzVlLWI5NjNhNjYyMTU0YQ.jpg)
 
 ## Education
 
