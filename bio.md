@@ -19,11 +19,11 @@
 
 ## Work Experience
 
-** 9/2015-present** Salsa Ladies Styling Instructor at Dancewaves Dance Academy
+**9/2015-present** Salsa Ladies Styling Instructor at Dancewaves Dance Academy
 
-** 6/2015-present** Account Manager at GnosySoft
+**6/2015-present** Account Manager at GnosySoft
 
-** 9/2014-7/2015 **  Salsa and Tango instructor at Latin School of Dance 
+**9/2014-7/2015**  Salsa and Tango instructor at Latin School of Dance 
 
 **9/2013-6/2015** Laboratory Assistant at University of Cyprus
 
